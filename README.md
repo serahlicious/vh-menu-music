@@ -1,2 +1,2 @@
 # vhmmr
-Serah's private playlist to customize Valheim main menu music.
+Serahlicious' private playlist to customize Valheim main menu music.
